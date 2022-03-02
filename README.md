@@ -23,5 +23,6 @@ The Community is a core part of what we do at [Octopus Deploy](https://octopus.c
 
 ## Useful Links
 
+- [Free Octopus Deploy license for community members](friends.md)
 - [Octopus Deploy Webinars](https://octopus.com/events)
 - [Octopus Deploy YouTube](https://youtube.com/OctopusDeploy)
