@@ -10,11 +10,11 @@ In addition to a FREE self-hosted or Octopus cloud license for a year, community
 # Who is eligible?
 Octopus Deploy is happy to provide a self-hosted or Octopus Cloud license to community members. A list of those eligible include:
 
-•          Friends of Redgate
+• Friends of Redgate
 
-•          Microsoft Most Valuable Professionals (MVPs)
+• Microsoft Most Valuable Professionals (MVPs)
 
-•          And more!
+• Octopus Insiders
 
 # How to apply
 
