@@ -4,6 +4,9 @@ Learning by hands on experience is often the best way to learn for a lot of peop
 
 This license can be used in a test environment or home lab for product demos and training. 
 
+# Free swag for community members
+In addition to a FREE self-hosted or Octopus cloud license for a year, community members also receive free swag. These include a t-shirt and sticker pack. 
+
 # Who is eligible?
 Octopus Deploy is happy to provide a self-hosted or Octopus Cloud license to community members. A list of those eligible include:
 
