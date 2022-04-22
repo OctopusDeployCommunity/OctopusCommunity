@@ -41,3 +41,4 @@ The Community is a core part of what we do at [Octopus Deploy](https://octopus.c
 - [Octopus Community Edition](https://octopus.com/docs/administration/managing-licenses/community)
 - [Octopus Docs](https://octopus.com/docs/getting-started)
 - [Octopus CI/CD Guides](https://octopus.com/docs/guides)
+- [Octopus Support Forum](https://help.octopus.com/)
