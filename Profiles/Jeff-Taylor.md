@@ -4,7 +4,6 @@ Jeff Taylor is a Senior Software & Data Architect. His work with databases began
 
 ## Links
 
-- [Email](jeff@reviewmydb.com)
 - [Twitter](https://twitter.com/aspnerd)
 - [LinkedIn](https://www.linkedin.com/in/reviewmydb/)
 - [Website](https://blog.reviewmydb.com/)
