@@ -10,7 +10,7 @@ Learning by hands on experience is often the best way to learn for a lot of peop
 This license can be used in a test environment or home lab for product demos and training. 
 
 ## Free swag for Octopus Insiders
-In addition to a FREE self-hosted or Octopus cloud license for a year, community members also receive free swag. These include a t-shirt and sticker pack. 
+In addition to a FREE self-hosted or Octopus cloud license for a year, Octopus Insiders also receive free swag. These include a hoodie, t-shirt and hat. There's also plenty of stickers too. 
 
 ## Unparalleled access to Octopus
 As part of the Octopus Insiders program you get access to: 
