@@ -2,7 +2,7 @@
 
 The Octopus Insiders program is similar to [MVP Program](https://mvp.microsoft.com/) in that we look to identify and reward key people in our Community that go above and beyond in helping others not just with Octopus Deploy problems but wider DevOps related problems. 
 
-If you wish to nominate someone in the Community, please <mailto:Community@Octopus.com> us explaining why. 
+If you wish to nominate someone in the Community, please email us on <Community@Octopus.com> us explaining why you're nominating this person along with any examples. 
 
 ## Free license for Octopus Insiders
 Learning by hands on experience is often the best way to learn for a lot of people.  For those who believe in the same mantra, Octopus Deploy provides a FREE self-hosted or Octopus cloud license for a year, up to 50 targets. 
