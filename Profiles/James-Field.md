@@ -1,0 +1,9 @@
+# James Field
+
+James Fields works at a leading Software as a Service vendor providing solutions in the Ethics, Sustainability, Governance, Risk & Compliance space. Which is a long way of saying we build the software that helps the directors and boards of multinational companies run their businesses in an ethical and sustainable way. 
+
+My role is DevOps engineering manager, I lead 2 teams responsible for engineering and supporting the tooling used to build, test & deliver our software from development into production. We also provide enablement, documentation, training, and on-site consultancy for our internal scrum teams to facilitate them in delivering their software more efficiently.I started my career in an operational role supporting servers and hardware for financial services organisations, but soon realised my true passion was for software.
+
+ I was lucky to be at the right place at the start of the DevOps movement and found myself working within a large development team building distributed risk management systems. My role was to facilitate the build, test, environment, and configuration management for the group, and it was here that I found my true passion for using software to solve complex technical problems.A fun fact, as well as shameless plug on my part, is that I worked briefly with Paul Stovell when he was a contractor in the same development group. 
+ 
+ I recall he offered us a free version of Octopus in its pre-release state to see if it would help us with our deployment concerns. To my eternal shame we declined, citing bureaucratic and risk management reasons for not using his software in its early form. I’ve been trying to make up for that error in judgement ever since. I had a second opportunity to use Octopus Deploy a few years later when it was a well-established commercial tool within the community, and I’ve been championing it from that day forward!

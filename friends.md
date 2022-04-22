@@ -1,5 +1,5 @@
 
-# Free license for community members
+# Free license for MVP and Friends of Redgate
 Learning by hands on experience is often the best way to learn for a lot of people.  For those who believe in the same mantra, Octopus Deploy provides a FREE self-hosted or Octopus cloud license for a year, up to 50 targets. 
 
 This license can be used in a test environment or home lab for product demos and training. 
@@ -14,7 +14,7 @@ Octopus Deploy is happy to provide a self-hosted or Octopus Cloud license to com
 
 • Microsoft Most Valuable Professionals (MVPs)
 
-• Octopus Insiders
+• [Octopus Insiders](insiders.md)
 
 # How to apply
 
